@@ -1,6 +1,6 @@
 # Regresso base de carros usados
-Regressão - base de carros usados sesao 06 do curso de deep learning com python.<br>
-Nessa parte foi utilziado o python para criar uma rede neural de regressao, onde utilizava os atributos de um veiculo para prever o preco desse veiculo.
+Regressão - base de carros usados<br>
+Sessao 06 do curso Deep Learning com Python de A a Z, foi utilizado o python para criar uma rede neural de regressao, onde utilizava os atributos de um veiculo para prever o preco desse veiculo.
 
 ## Arquivos
 Na pasta files pode encontrar toda a parte de arquivos que foi utilizada.<br>

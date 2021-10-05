@@ -11,11 +11,11 @@ Para executar a rede e extremamente simples, somente abre o arquivo .py da pasta
 OBS: E necessario ter instalado as bibliotecas do python, recomendo instalar o Anaconda Navigator para ter tudo completinho.
 
 ##Sessoes do curso:
-Link do Curso: https://www.udemy.com/course/deep-learning-com-python-az-curso-completo/ 
-36. Base de dados de carros usados
-37. Pré-processamento - valores inconsistentes
-38. Pré-processamento - valores faltantes
-39. Pré-processamento - label encoder
-40. Pré-processamento - one hot encoder
-41. Estrutura da rede neural
-42. Validação cruzada
+Link do Curso: https://www.udemy.com/course/deep-learning-com-python-az-curso-completo/ <br>
+36. Base de dados de carros usados<br>
+37. Pré-processamento - valores inconsistentes<br>
+38. Pré-processamento - valores faltantes<br>
+39. Pré-processamento - label encoder<br>
+40. Pré-processamento - one hot encoder<br>
+41. Estrutura da rede neural<br>
+42. Validação cruzada<br>

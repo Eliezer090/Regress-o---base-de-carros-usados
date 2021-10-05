@@ -7,7 +7,7 @@ Na pasta files pode encontrar toda a parte de arquivos que foi utilizada.<br>
 Na pasta src temos os scripts de fato que e utilizado para criar a rede e fazer toda a magica
 
 ## Para executar
-Para executar a rede e extremamente simples, somente abre o arquivo .py da pasta src e rodar.
+Para executar a rede e extremamente simples, somente abre o arquivo .py da pasta src e rodar.<br>
 OBS: E necessario ter instalado as bibliotecas do python, recomendo instalar o Anaconda Navigator para ter tudo completinho.
 
 ## Sessoes do curso:<br>
